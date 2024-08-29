@@ -1,0 +1,1 @@
+a:8:{s:2:"id";s:6:"onprkj";s:5:"state";s:5:"draft";s:5:"title";s:4:"test";s:4:"tags";a:1:{i:0;s:27:"<script>alert(xss)</script>";}s:4:"date";s:10:"2024-08-28";s:4:"time";s:8:"19:26:12";s:11:"can_comment";s:1:"1";s:7:"content";s:27:"<script>alert(xss)</script>";}
