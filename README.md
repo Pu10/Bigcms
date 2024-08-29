@@ -2,6 +2,7 @@
 ====
 
 Bigcms是一个针对个人网站设计的微型内容管理系统。
+![image](https://github.com/user-attachments/assets/f952c3f4-10dc-4627-ae72-9ed1ae39a6e0)
 
 结构
 ====
